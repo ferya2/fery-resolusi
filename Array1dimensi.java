@@ -3,7 +3,7 @@ public class CobaArray {
    
     public static void main(String[] args) {
         
-        String[] Bulan; //Deklarasi Array
+        String[] Bulan; //Mendeklarasikan Array
         
         Bulan = new String[12]; //Menentukan jumlah elemen dan Panjang Array
         int[] JumlahHari ={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
