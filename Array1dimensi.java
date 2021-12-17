@@ -2,7 +2,7 @@ public class CobaArray {
 
    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         String[] Bulan; //Deklarasi Array
         
         Bulan = new String[12]; //Menentukan jumlah elemen dan Panjang Array
