@@ -22,8 +22,8 @@ public class Inventori {
                            "██║░╚██╗██║░╚═╝░██║\n" +
                            "╚═╝░░╚═╝╚═╝░░░░░╚═╝"
                             + "BENGKEL KHASANAH MOTOR\n" +
-                            "Jln. A. H NASUTION No. 23/25\n" +
-                              "KOTA BANDUNG, JAWA BARAT");
+                            "Jln. \n" +
+                              "KOTA ");
         
         System.out.println("------List Inventori------");
         System.out.println("1.Lihat List Inventory");
