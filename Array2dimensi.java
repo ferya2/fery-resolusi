@@ -46,8 +46,8 @@ public class Array2dimensi {
                  "\n██║░╚██╗██║░╚═╝░██║\t" + 
                  "\n╚═╝░░╚═╝╚═╝░░░░░╚═╝\n"
                 + "    BENGKEL KHASANAH MOTOR\n" +
-                  "  Jln. A. H NASUTION No. 23/25\n" +
-                  "    KOTA BANDUNG, JAWA BARAT     ");
+                  "  Jln.  No. 23/25\n" +
+                  "    KOTA      ");
         
         menu.add("╔════════════════════════╗");
         menu.add("║1. Transaksi                          ║");
